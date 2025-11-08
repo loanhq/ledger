@@ -2,6 +2,10 @@
 
 A financial ledger application for LoanHQ.
 
+## Project Setup
+
+This repository is configured with the LoanHQ development profile.
+
 ## Getting Started
 
 This project is currently in development.
